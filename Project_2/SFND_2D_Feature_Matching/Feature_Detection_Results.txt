@@ -1,0 +1,4 @@
+Combination #1
+  Detector : Shi-Tomasi
+  Descriptor : BRISK
+
